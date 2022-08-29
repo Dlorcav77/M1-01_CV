@@ -1,0 +1,35 @@
+body{
+    width: 50rem;
+    margin: 0 auto;
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    text-align: center;
+}
+h3{
+    background-color: #C8FFF8;
+}
+
+.datos{
+    text-align: center;
+    background-color: #C8DFFF;
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    max-width: 700px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+.linea2 {
+    border-top: 1px solid black;
+    height: 2px;
+    max-width: 200px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+    
